@@ -3,7 +3,7 @@
 [![npm version](https://badge.fury.io/js/%40aviellv%2Fasync-request-rxjs-pipe.svg)](https://badge.fury.io/js/%40aviellv%2Fasync-request-rxjs-pipe)
 ![Travis (.org)](https://img.shields.io/travis/avilv/async-request.svg)
 
-A pipe functions for rxjs 6+ which emits a three-state 'async-request' with a typed loading/success/error  status object
+A pipe function for rxjs 6+ which emits a three-state 'async-request' with a typed loading/success/error  status object
 
 ## Motivation
 
