@@ -1,6 +1,6 @@
 {
   "name": "@aviellv/async-request-rxjs-pipe",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A pipe functions for rxjs 6+ which emits a three-state 'async-request' with a typed loading/sucess/error status object",
   "main": "./dist/index.js",
   "scripts": {
